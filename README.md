@@ -1,5 +1,5 @@
 # ExerciseFinder
-A microservice that returns exercises for a given muscle, communicates using HTML calls, project for CS-361
+A microservice that returns a list of exercises for a given muscle that include discriptions on how to complete each exercise, communicates using HTML calls, project for CS-361
 
 Installation and Requirements:
 1. Recommended to use a virtual environment
